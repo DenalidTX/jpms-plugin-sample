@@ -1,0 +1,1 @@
+java --module-path "../my-plugin-reader/lib" --module jpms.plugin.reader
